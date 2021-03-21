@@ -32,7 +32,7 @@
 
 ####conversion from decimal to octal####
 
-##n= int(input())
+#n= int(input())
 ##def dec_to_oct(n):
 ##    l=[]
 ##    while n:
